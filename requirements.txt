@@ -8,10 +8,5 @@ demo2.png
 demo3.png
 demo4.png
 favicon.png
-CODE_OF_CONDUCT.md
-Create CODE_OF_CONDUCT.md
-CONTRIBUTING.md
-CONTRIBUTORS.md
-README.md
 index.html
 python==3.10.2
