@@ -1,6 +1,4 @@
-W3.CSS==4.15
-corner.css
-main.css
+
 main.js
 time.js
 demo1.png
