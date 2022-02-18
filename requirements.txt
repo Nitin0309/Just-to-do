@@ -1,4 +1,4 @@
-.git
+
 corner.css
 main.css
 main.js
