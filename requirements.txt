@@ -14,3 +14,4 @@ CONTRIBUTING.md
 CONTRIBUTORS.md
 README.md
 index.html
+python==3.10.2
