@@ -1,10 +1,2 @@
 
-main.js
-time.js
-demo1.png
-demo2.png
-demo3.png
-demo4.png
-favicon.png
-index.html
 python==3.10.2
